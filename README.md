@@ -2,6 +2,11 @@
 MusicTec App
 
 
+![painel do projeto](https://user-images.githubusercontent.com/37023108/170979633-4ec3fe70-b83a-47a2-a664-f76f57038f88.png)
+
+
+
+
 # angular-estudos
 Aplicações desenvolvidas durante o curso de Angular 8, oferecido pela Digital Innovation One.
 
