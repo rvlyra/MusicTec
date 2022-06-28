@@ -39,3 +39,44 @@
 /media/rvlyra/Armazem/Dev/Git Projects/Github/api_dotnet_test/apiCourses/obj/Debug/net6.0/apiCourses.pdb
 /media/rvlyra/Armazem/Dev/Git Projects/Github/api_dotnet_test/apiCourses/obj/Debug/net6.0/apiCourses.genruntimeconfig.cache
 /media/rvlyra/Armazem/Dev/Git Projects/Github/api_dotnet_test/apiCourses/obj/Debug/net6.0/ref/apiCourses.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\appsettings.json
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\apiCourses.exe
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\apiCourses.deps.json
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\apiCourses.runtimeconfig.json
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\apiCourses.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\apiCourses.pdb
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\obj\Debug\net6.0\apiCourses.csproj.AssemblyReference.cache
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\obj\Debug\net6.0\apiCourses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\obj\Debug\net6.0\apiCourses.AssemblyInfoInputs.cache
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\obj\Debug\net6.0\apiCourses.AssemblyInfo.cs
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\obj\Debug\net6.0\apiCourses.csproj.CoreCompileInputs.cache
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\obj\Debug\net6.0\apiCourses.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\obj\Debug\net6.0\apiCourses.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\obj\Debug\net6.0\apiCourses.RazorAssemblyInfo.cache
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\obj\Debug\net6.0\apiCourses.RazorAssemblyInfo.cs
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\obj\Debug\net6.0\apiCourses.csproj.CopyComplete
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\obj\Debug\net6.0\apiCourses.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\obj\Debug\net6.0\refint\apiCourses.dll
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\obj\Debug\net6.0\apiCourses.pdb
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\obj\Debug\net6.0\apiCourses.genruntimeconfig.cache
+C:\Users\rlyra\Documents\Dev\VS_Github\MusicTec\apiCourses\obj\Debug\net6.0\ref\apiCourses.dll
